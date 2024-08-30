@@ -1,0 +1,74 @@
+
+🟢 Section 1
+
+- Variables
+- Operators
+- Condition
+- Loop
+- Array
+- Object
+- Function
+- Expression vs Statement
+- etc.
+
+
+🟢 Section 2
+
+- String
+- Array
+- Object 
+- Prototype & Inheritance 📍
+
+
+🟢 Section 3
+
+- Functional Programming
+- Object Orianted Programming
+- Asynchronus Programming
+
+
+🟢 Section 4
+
+- Date & Time
+- Math Function
+- Set Data Structure
+- Map Data Structure
+
+
+🟢 Section 5
+
+- JSON
+- Data Fetching (Axios)
+- AJAX
+- Local & Session Storege
+
+
+🟢 Section 6 
+
+- How JS Works?
+
+
+🟢 Section 7
+
+- Node.JS
+
+
+🟢 Section 8
+
+- DOM
+- BOM
+- Event
+
+
+🟢 Section 9
+
+- Iterator 
+- Generator
+- Async Iterator 
+- Async Generator
+
+
+🟢 Section 10
+
+- Web API
+- Web Workers & Worker Threads
