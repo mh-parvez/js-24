@@ -1,2 +1,2 @@
-# js-24
+# Js-24
 js topics ( code )
