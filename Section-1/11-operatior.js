@@ -17,6 +17,16 @@ let message = `The name is -> ${username ?? warrring}`;
 
 console.log(message);
 
+
+// The important difference between them is that:
+// || returns the first truthy value.
+// ?? returns the first defined value.
+// Documentation Link: https://javascript.info/nullish-coalescing-operator
+let height = 0;
+console.log(height || 100); // 100
+console.log(height ?? 100); // 0
+
+
 // ?. (optional chaining)
 // note: opeator returns undefined if an objects is undefined or null (instead of thowing error)
 
